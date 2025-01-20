@@ -1,5 +1,9 @@
 # Change Log
 
+## [unreleased]
+
+* Updated jsdoc-to-ts CLI option to support Limestone.
+
 ## [1.0.7] (January 15, 2025)
 
 * Updated `react` dependency to `^19.0.0`.

@@ -54,7 +54,8 @@ const opts = minimist(process.argv.slice(2), {
 			moonstone: '@enact/moonstone',
 			'moonstone-ez': '@enact/moonstone-ez',
 			agate: '@enact/agate',
-			sandstone: '@enact/sandstone'
+			sandstone: '@enact/sandstone',
+			limestone: '@enact/limestone'
 		},
 		outputPath: '.'
 	},

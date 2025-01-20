@@ -100,7 +100,7 @@ You also have to configure the app to resolve the generated typings by adding th
 Assuming jsdoc-to-ts is installed and linked globally on the current device, and we want to run the command in one of the installed Enact packages (core, ui, i18n, etc.) folder:
 
 ```bash
-jsdoc-to-ts --ignore='["node_modules", "ilib", "build", "docs", "tests", "samples"]' --importMap='{"core":"@enact/core","ui":"@enact/ui","spotlight":"@enact/spotlight","i18n":"@enact/i18n","webos":"@enact/webos","moonstone":"@enact/moonstone","agate":"@enact/agate","sandstone":"@enact/sandstone"}' --outputPath='.'
+jsdoc-to-ts --ignore='["node_modules", "ilib", "build", "docs", "tests", "samples"]' --importMap='{"core":"@enact/core","ui":"@enact/ui","spotlight":"@enact/spotlight","i18n":"@enact/i18n","webos":"@enact/webos","moonstone":"@enact/moonstone","agate":"@enact/agate","sandstone":"@enact/sandstone","limestone":"@enact/limestone"}' --outputPath='.'
 ```
 
 ## Assumptions
